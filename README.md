@@ -1,5 +1,6 @@
-![Screenshot (583)](https://github.com/abdulmoiz-ds/S3LambdaDynamoDBPractice/assets/74011754/3af2bea3-12b7-47a6-b0ab-d36198525682)# S3LambdaDynamoDBPractice
+# S3LambdaDynamoDBPractice
 Hi, I was practicing AWS Lambda, AWS DynamoDB, and AWS S3. A quick overview of these services.
+
 # AWS Lambda
 AWS Lambda is a computing service provided by AWS. It is a serverless service. We don't have to worry about any infrastructure and servers.
 # AWS DynamoDB
